@@ -10,7 +10,7 @@ from colour import Color
 options = ['-l4', '-pt4', '-pt', '-a', '-h', '-v', '-o', '--help']
 
 # Parameters's descriptions array
-des = ['Lists all hosts addresses on the network(and the up ones)', 'Shows the open ports(TCP) on a host', 'See if a specified port is open', 'Do a scan on all ports', 'Put the host address just after this option', 'Uses the verbose mode', 'Write the output to a file !!! Feature not avaible yet !!!', 'Shows this helping interface']
+des = ['Lists all hosts addresses on the network(just the up ones !!! Feature not avaible yet !!!)', 'Shows the open ports(TCP) on a host', 'See if a specified port is open', 'Do a scan on all ports', 'Put the host address just after this option', 'Uses the verbose mode', 'Write the output to a file !!! Feature not avaible yet !!!', 'Shows this helping interface']
 
 # Open ports array
 ports = []
