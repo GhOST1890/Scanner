@@ -198,4 +198,4 @@ elif "--help" in sys.argv:
     print("Example: python3 scanner.py -v -a -pt4 -h 127.0.0.1")
     print("Example: python3 scanner.py -pt 80 -h google.com")
     print("Obs: Using the verbose mode takes more time")
-    print("Obs: Using the -pt4 option with the verbose mode, depending on the target, can take several minutes")
+    print("Obs: Using the -pt4 option with the -a option, depending on the target, can take several minutes")
