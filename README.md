@@ -1,2 +1,3 @@
 # Scanner
-A simple scanner
+A simple network scanner. 
+This program is at a really early version, so do not expect much from it. The updates are coming...
